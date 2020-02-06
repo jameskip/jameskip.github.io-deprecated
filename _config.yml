@@ -9,8 +9,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -99,7 +98,7 @@ topics:
   - name: MongoDB
     web_url: https://github.com/topics/mongodb
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/mongodb/mongodb.png
-    
+
   - name: Node
     web_url: https://github.com/topics/node
     image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/nodejs/nodejs.png
@@ -110,7 +109,7 @@ topics:
 
   - name: React
     web_url: https://github.com/topics/react
-    image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/react-native/react-native.png    
+    image_url: https://raw.githubusercontent.com/github/explore/9f270b9ddad21705ebd33f4602a0aec0d22cbe4e/topics/react-native/react-native.png
 
   - name: React Native
     web_url: https://github.com/topics/react-native
