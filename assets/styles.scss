@@ -42,12 +42,14 @@
     margin-bottom: 16px;
   }
 
-  ul, ol {
+  ul,
+  ol {
     padding-left: 32px;
     margin-bottom: 16px;
   }
 
-  li ul, li ol {
+  li ul,
+  li ol {
     padding-left: 16px;
     margin-bottom: 0px;
   }
@@ -63,13 +65,13 @@
 
 @media only screen and (min-width: 900px) {
   div#stick {
-  position: -webkit-sticky !important;
+    position: -webkit-sticky !important;
     position: sticky !important;
     top: 0 !important;
     background-color: #fff;
     position: absolute;
     padding-bottom: 20px;
-    padding-top: 5px;
+    padding-top: 20px;
     z-index: 10;
   }
 
@@ -83,7 +85,7 @@
 }
 
 div.footer {
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
   position: relative;
 }
 
@@ -98,7 +100,7 @@ p#take-one {
 }
 
 footer {
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
   font-size: 18px;
   position: inline-flex;
   align-self: center;
