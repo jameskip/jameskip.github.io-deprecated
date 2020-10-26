@@ -40,7 +40,6 @@ social_media:
   # stackoverflow: 7004970
   # telegram: your_username
   twitter: jvweskip
-  resume: jameskip/jameskip.github.io/blob/4ee5c482df0bfab48086d855204825e1a419fb15/JamesKipResume.pdf
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
@@ -151,3 +150,40 @@ certifications:
   - name: Certified ScrumMaster (CSM)
     web_url: https://bcert.me/bc/html/show-badge.html?b=fincsanf
     image_url: https://bcert.me/bc/html/img/badges/generated/badge-7227.png
+
+books:
+  - name: The Molecule of More
+    web_url: https://www.amazon.com/gp/product/1946885118/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/51j0d8yYK4L._SX331_BO1,204,203,200_.jpg
+
+  - name: Eloquent Javascript
+    web_url: https://www.amazon.com/gp/product/1593279507/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg
+
+  - name: Principles
+    web_url: https://www.amazon.com/gp/product/1501124021/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/41cEbWztZYL._SX331_BO1,204,203,200_.jpg
+
+  - name: It Doesn't Have to Be Crazy at Work
+    web_url: https://www.amazon.com/gp/product/0062874780/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/51nepS2j-UL._SX329_BO1,204,203,200_.jpg
+
+  - name: Math with Bad Drawings
+    web_url: https://www.amazon.com/Math-Bad-Drawings-Illuminating-Reality/dp/0316509035/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/51EP1Orpx0L._SX384_BO1,204,203,200_.jpg
+
+  - name: An Elegant Puzzle
+    web_url: https://www.amazon.com/gp/product/1732265186/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/51aTO3pGp9L._SX336_BO1,204,203,200_.jpg
+
+  - name: The Self-Taught Programmer
+    web_url: https://www.amazon.com/gp/product/0999685902/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/31YJmObNTnL._SX404_BO1,204,203,200_.jpg
+
+  - name: The Art of Doing Science and Engineering
+    web_url: https://www.amazon.com/gp/product/1732265178/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/21leVtAEhAL._SX336_BO1,204,203,200_.jpg
+
+  - name: How Smart Machines Think
+    web_url: https://www.amazon.com/gp/product/0262038404/
+    image_url: https://images-na.ssl-images-amazon.com/images/I/41QGAwYIWzL._SX327_BO1,204,203,200_.jpg
